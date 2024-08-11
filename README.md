@@ -5,7 +5,7 @@
 
 - 🌱 Estou focado em aprender **Spring Boot / Spring Framework**
 
-- 📫 Você pode me contar em: **vitorteix20@gmail.com**
+- 📫 Você pode me contatar em: **vitorteix20@gmail.com**
 
 <h3 align="left">Linguagens e ferramentas:</h3>
 <p align="left"> 
