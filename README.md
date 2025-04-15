@@ -9,4 +9,4 @@
 
 <h3 align="left">Linguagens e ferramentas:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,c,js,spring,html,css,postgres,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,js,django,html,css,postgres,git)](https://skillicons.dev)
